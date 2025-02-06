@@ -3,4 +3,8 @@ StayTrack is a hotel room booking and management system that allows users to vie
 
 ## OBJECTIVE 
 
-newly updated
+ Project Idea
+|pages|Column2  |Column3  |Column4  |
+|---------|---------|---------|---------|
+|Row1     |         |         |         |
+|Row2     |         |         |         |
