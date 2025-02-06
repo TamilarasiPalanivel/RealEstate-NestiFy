@@ -1,6 +1,6 @@
-# **RealEstate-Nestify🏡**
+# **RealEstate-NestiFy🏡**
 
-**Nestify** is your go-to platform for discovering, listing, and managing properties effortlessly. With **real-time chat** using **Socket.io**, secure authentication, and a user-friendly interface, it simplifies property transactions for buyers, sellers, and agents. Built with the **MERN stack**, it ensures seamless interactions, fast performance, and reliable data management.  
+**NestiFy** is your go-to platform for discovering, listing, and managing properties effortlessly. With **real-time chat** using **Socket.io**, secure authentication, and a user-friendly interface, it simplifies property transactions for buyers, sellers, and agents. Built with the **MERN stack**, it ensures seamless interactions, fast performance, and reliable data management.  
 
 ## 🚀 **Features**
 - ✅ Secure **JWT authentication** with **HTTP-only cookies**
